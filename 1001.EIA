@@ -1,0 +1,14 @@
+O1001()
+( T1 Welding Seam - obtaczadlo)
+( OBTACZANIE D30/D47 )
+( BAZA WIDOK "B-B" + HOLE CENTER )
+G90 G0 B0 
+G0 X0 Y0 Z450
+G0 Z48
+G1 Z40.5 F160
+G1 Z34.5 F80
+G4 X0.1 (t=0,1s)
+G0 Z450
+M99
+
+
